@@ -1,5 +1,5 @@
-import ListGroup from "./components/ListGroup";
 import Message from "./Message";
+import ListGroup from "./components/ListGroup";
 
 function App() {
   // FIRST MESSAGE
